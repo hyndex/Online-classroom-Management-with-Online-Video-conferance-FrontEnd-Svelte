@@ -1,8 +1,7 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
 ---
 
-# svelte app
+# Its the frontend of [Online-classroom-Management-with-Online-Video-conferance](https://github.com/hyndex/laboratory-information-management-system)
+![Made with Love in India](https://madewithlove.org.in/badge.svg) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -15,13 +14,13 @@ cd svelte-app
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
+## Getting Started
 
-## Get started
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd folder
 npm install
 ```
 
