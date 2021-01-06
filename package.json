@@ -16,7 +16,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-jwt": "^1.2.0",
     "js-cookie": "^2.2.1",
     "page": "^1.11.6",
